@@ -1,4 +1,4 @@
-# HM_3 - Computational_Statistical_Mechanics
+# HW_3 - Computational_Statistical_Mechanics
 
 Homework 3 of the course Computational Statistical Mechanics (Theoretical physics, Sapienza)
 
